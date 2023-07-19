@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.Welcome{
+	text-align: center;
+}
+.Welcome h1{
+	margin-top: 20px;
+}
+.Welcome h3{
+margin-top: 10px;	
+}
+.Welcome p{
+	margin-top: 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.start{
+	border: 1px solid black;
+}
+.grid{
+	display: grid;
+	
+	grid-template-columns: repeat(4, 1fr);
+
+}
+.text{
+	border-bottom: 1px solid black;
+	padding: 13px;
+
+}
+.into{
+	border-left: 1px solid black;
+}
+.text.text-2 {
+    border-bottom: none;
+}
+.duce{
+	border-left: 1px solid black;
+}
+.robert{
+border-left: 1px solid black;	
+}
+.text.text-3 {
+    padding-bottom: 12px;
+    padding-left: 5px;
+}
+.Example{
+	margin-top: 20px;
+}
+.watt{
+	text-align: center;
+	text-decoration: underline;
+}
+.on{
+margin-top: 15px;
+margin-left: 20px;
+}
+.liu{
+	margin-top: 20px;
+}
+.credit{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+.text-4{
+	margin-top: 5px;
+}
